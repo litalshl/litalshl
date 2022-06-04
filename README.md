@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lital S
+- 👀 I’m interested in medical devices, process mining and detecting cognitive processes
+- 🌱 I’m currently learning image processing as part of my PhD studies
+- 💞️ I’m looking to collaborate on image processing and eye tracking processing
+- 📫 How to reach me lshale02@campus.haifa.ac.il
